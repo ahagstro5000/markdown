@@ -18,6 +18,7 @@ table {
   width: 100%;
   text-align: left;
   border-collapse: collapse;
+  border: none
 }
 
 .kopf th,
