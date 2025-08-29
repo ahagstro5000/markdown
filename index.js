@@ -10,7 +10,7 @@ let isNewRecord = Observable.create(null, true);
 
 window.addEventListener('keypress', (ev) => {
   // If user pressed Enter or Space
-  if (ev.keyCode === 13 || ev.keyCode === 32) {
+  if (KeyboardEvent === 'enter' || KeyboardEvent === ' ') {
     // and we are in the read mode
     if (txt.isPreviewActive() && editable) {
       // switch to edit mode.

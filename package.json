@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "grist": {
     "name": "Markdown",
-    "url": "https://gristlabs.github.io/grist-widget/markdown",
+    "url": "https://ahagstro5000.github.io/markdown",
     "widgetId": "@gristlabs/widget-markdown",
     "published": true,
     "accessLevel": "full",
@@ -13,10 +13,10 @@
     "description": "View and format a record's text using Markdown syntax.",
     "authors": [
       {
-        "name": "Grist Labs",
+        "name": "Grist Labs, modified by ahagstro5000",
         "url": "https://github.com/gristlabs"
       }
     ],
-    "isGristLabsMaintained": true
+    "isGristLabsMaintained": false
   }
 }
